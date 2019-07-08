@@ -1,2 +1,2 @@
-"Name","MemoryGB","NumCPU","Networks","Cluster","Datastores","DestinationHost","DestinationDatastore"
-"SAMPLEVM01","16","2","Server Network VLAN-42","Production_Cluster","NAS_STORAGE_01","ESX-01","DS_CLUSTER_99"
+"Name","Networks","Cluster","Datastores","DestinationHost","DestinationDatastore"
+"SAMPLEVM01","Server Network VLAN-42","Production_Cluster","NAS_STORAGE_01","ESX-01","DS_CLUSTER_99"
