@@ -4,7 +4,7 @@ Functions to migration VMs to new hosts and datastores. The functions were used 
 
 ## Overview
 
-Script reads a CSV file with virtual machine names, destination host, and [optionally] a destination datastore or datastore cluster. See (sample CSV)[https://github.com/larntz/PowerCLI-VM-Migration-Functions/blob/master/sample-migration.csv] in repo. 
+Script reads a CSV file with virtual machine names, destination host, and [optionally] a destination datastore or datastore cluster. See [sample CSV](https://github.com/larntz/PowerCLI-VM-Migration-Functions/blob/master/sample-migration.csv) in repo. 
 
 ## Assumptions
 
